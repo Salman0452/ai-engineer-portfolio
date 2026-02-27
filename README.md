@@ -62,7 +62,7 @@ Web search, calculator, and RAG knowledge base — all chained together.
 
 ---
 
-## 📬 Connect
+## Connect
 
 - LinkedIn: [https://www.linkedin.com/in/salman-ahmad-dev/]
 - GitHub: [https://github.com/Salman0452]
