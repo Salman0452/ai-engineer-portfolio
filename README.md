@@ -36,7 +36,8 @@ An AI agent that thinks, plans, and uses tools to answer questions.
 Web search, calculator, and RAG knowledge base — all chained together.
 
 **Stack:** Groq · LangChain Agents · DuckDuckGo · Streamlit  
-**GitHub:** [https://github.com/Salman0452/personal-research-agent.git] |
+**GitHub:** [https://github.com/Salman0452/personal-research-agent.git] | **Live Demo:** [https://personal-research-agent-dtp6r7xwvxt3hzencn5shf.streamlit.app/]
+
 
 ---
 
