@@ -41,6 +41,18 @@ Web search, calculator, and RAG knowledge base — all chained together.
 
 ---
 
+### 3. Multi Agent System
+> Week 3 — Multi AI Agents + Tool Use + ReAct Framework
+
+Multi-agent AI system with supervisor routing. 
+Web search, calculator, and calculations — all chained together.
+
+**Stack:** Groq · LangChain Agents · Streamlit  
+**GitHub:** [https://github.com/Salman0452/personal-multiagent.git] | **Live Demo:** [https://personal-multiagent-yhuzy97thvszswkuy8kez3.streamlit.app/]
+
+
+---
+
 ## Tech Stack
 
 | Category | Technologies |
@@ -58,7 +70,7 @@ Web search, calculator, and RAG knowledge base — all chained together.
 
 - [x] Week 1 — LLM APIs, Prompt Engineering, First AI App
 - [x] Week 2 — RAG, Vector Embeddings, Deployment
-- [ ] Week 3 — AI Agents, Tool Use, Agentic Workflows
+- [x] Week 3 — AI Agents, Tool Use, Agentic Workflows
 - [ ] Week 4 — MLOps, Docker, Production Deployment
 
 ---
